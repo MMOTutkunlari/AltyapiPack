@@ -1,0 +1,9 @@
+
+CONFIG
+*.exe
+*.dll
+*.eix
+*.epk
+*.rar
+syserr.txt
+syslog.txt
