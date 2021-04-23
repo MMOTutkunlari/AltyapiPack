@@ -54,16 +54,16 @@ window = {
 
 					"images" :
 					(
-						"locale/en/ui/Mall/easter_2012_0000.tga",
-						"locale/en/ui/Mall/easter_2012_0001.tga",
-						"locale/en/ui/Mall/easter_2012_0002.tga",
-						"locale/en/ui/Mall/easter_2012_0003.tga",
-						"locale/en/ui/Mall/easter_2012_0004.tga",
-						"locale/en/ui/Mall/easter_2012_0005.tga",
-						"locale/en/ui/Mall/easter_2012_0006.tga",
-						"locale/en/ui/Mall/easter_2012_0007.tga",
-						"locale/en/ui/Mall/easter_2012_0008.tga",
-						"locale/en/ui/Mall/easter_2012_0009.tga",
+						"locale/tr/ui/Mall/easter_2012_0000.tga",
+						"locale/tr/ui/Mall/easter_2012_0001.tga",
+						"locale/tr/ui/Mall/easter_2012_0002.tga",
+						"locale/tr/ui/Mall/easter_2012_0003.tga",
+						"locale/tr/ui/Mall/easter_2012_0004.tga",
+						"locale/tr/ui/Mall/easter_2012_0005.tga",
+						"locale/tr/ui/Mall/easter_2012_0006.tga",
+						"locale/tr/ui/Mall/easter_2012_0007.tga",
+						"locale/tr/ui/Mall/easter_2012_0008.tga",
+						"locale/tr/ui/Mall/easter_2012_0009.tga",
 					)
 				},
 				{
@@ -79,16 +79,16 @@ window = {
 
 					"images" :
 					(
-						"locale/en/ui/Mall/easter_2012_0000.tga",
-						"locale/en/ui/Mall/easter_2012_0001.tga",
-						"locale/en/ui/Mall/easter_2012_0002.tga",
-						"locale/en/ui/Mall/easter_2012_0003.tga",
-						"locale/en/ui/Mall/easter_2012_0004.tga",
-						"locale/en/ui/Mall/easter_2012_0005.tga",
-						"locale/en/ui/Mall/easter_2012_0006.tga",
-						"locale/en/ui/Mall/easter_2012_0007.tga",
-						"locale/en/ui/Mall/easter_2012_0008.tga",
-						"locale/en/ui/Mall/easter_2012_0009.tga",
+						"locale/tr/ui/Mall/easter_2012_0000.tga",
+						"locale/tr/ui/Mall/easter_2012_0001.tga",
+						"locale/tr/ui/Mall/easter_2012_0002.tga",
+						"locale/tr/ui/Mall/easter_2012_0003.tga",
+						"locale/tr/ui/Mall/easter_2012_0004.tga",
+						"locale/tr/ui/Mall/easter_2012_0005.tga",
+						"locale/tr/ui/Mall/easter_2012_0006.tga",
+						"locale/tr/ui/Mall/easter_2012_0007.tga",
+						"locale/tr/ui/Mall/easter_2012_0008.tga",
+						"locale/tr/ui/Mall/easter_2012_0009.tga",
 					)
 				},
 				{
