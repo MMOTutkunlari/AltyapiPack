@@ -3,7 +3,7 @@ app.ServerName = None
 
 SERVER1 = {
 	"name" : "MMO Tutkunlari",
-	"host" : "192.168.1.111",
+	"host" : "192.168.1.15",
 	"auth" : 11900,
 	"ch1" : 13900,
 	"ch2" : 13910,

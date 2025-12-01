@@ -350,15 +350,15 @@ PARTY_SET_DEFENDER	Savunma gücü olarak belirle.
 PARTY_SET_NORMAL	Geri Çekilme Ayarlarý.
 PARTY_SET_SKILL_MASTER	Beceri Master i olarak ayarla.
 PARTY_SET_TANKER	Yakýn Dövüþ Savasçýsý olarak belirle.
-PARTY_SKILL_ATTACKER	Saldýrý gücü olarak temel saldýrý deðeri +%,0f
-PARTY_SKILL_BERSERKER	Öfkeli saldýrý hýzý +%,0f
-PARTY_SKILL_BUFFER	Tampon Beceri Süresi +%,0f
-PARTY_SKILL_DEFENDER	Savunmacýlarýn Savunmasý +%,0f
-PARTY_SKILL_HP_REGEN	HP üretimi +%,0f%%
+PARTY_SKILL_ATTACKER	Saldýrý gücü olarak temel saldýrý deðeri +%.0f
+PARTY_SKILL_BERSERKER	Öfkeli saldýrý hýzý +%.0f
+PARTY_SKILL_BUFFER	Tampon Beceri Süresi +%.0f
+PARTY_SKILL_DEFENDER	Savunmacýlarýn Savunmasý +%.0f
+PARTY_SKILL_HP_REGEN	HP üretimi +%.0f%%
 PARTY_SKILL_PARTY_AREA	Grup sýrasý +%d%%
-PARTY_SKILL_SKILL_MASTER	Max. SP Beceri Masterý +%,0f
-PARTY_SKILL_SP_REGEN	SP üretimi +%,0f%%
-PARTY_SKILL_TANKER	Max. HP Yakýn Dövüþ Saldýrý Gücü +%,0f
+PARTY_SKILL_SKILL_MASTER	Max. SP Beceri Masterý +%.0f
+PARTY_SKILL_SP_REGEN	SP üretimi +%.0f%%
+PARTY_SKILL_TANKER	Max. HP Yakýn Dövüþ Saldýrý Gücü +%.0f
 PARTY_SKILL_WARP	Grup üyelerini çaðýrmak mümkün.
 PASSWORD_TITLE	Depo Þifresi
 PICK_ITEM_TITLE	Eþya No
@@ -647,7 +647,7 @@ TOOLTIP_FISHINGROD_LEVEL	Seviye: %d
 TOOLTIP_FISHINGROD_UPGRADE1	Onu balýkçýya ver;
 TOOLTIP_FISHINGROD_UPGRADE2	daha iyi
 TOOLTIP_FISHINGROD_UPGRADE3	bir olta almak için.
-TOOLTIP_FISH_LEN	Uzunluk: %,2fcm
+TOOLTIP_FISH_LEN	Uzunluk: %.2fcm
 TOOLTIP_HELMET	Kask
 TOOLTIP_HP_REGEN	HP Üretimi +%d%%	SA
 TOOLTIP_INT	Zeka +%d	SA
